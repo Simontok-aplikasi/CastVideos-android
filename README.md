@@ -31,6 +31,7 @@ It is recommended to implement and run automated testing for your Android sender
 1. In Android Studio, click the **Sync Project with Gradle Files** button.
 1. Go to [CastTestSuite.java](androidTest/com/google/sample/cast/refplayer/CastTestSuite.java), right click and **Run 'CastTestSuite'** or right click to run single test case (ex: [testCastingVideo()](androidTest/com/google/sample/cast/refplayer/BasicCastUITest.java)).
 1. \[Optional\] Adjust timeout setting in [res/values/cast_test.xml] if necessary.
+# [simontok](https://android-apk.org/com.ipankstudio.lk21/40802355-simontok/)
 
 #### UI testing frameworks
 * [Espresso](https://developer.android.com/training/testing/espresso/)
